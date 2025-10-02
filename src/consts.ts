@@ -104,7 +104,7 @@ export const MENU_ITEMS: MenuItem[] = [
   {
     id: "open-source",
     label: "GitHub",
-    href: "https://github.com/DTeam-Top",
+    href: "https://github.com/monakit/monakit",
     title: "GitHub",
     description: "Explore our open-source projects.",
   },
