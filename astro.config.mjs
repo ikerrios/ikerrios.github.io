@@ -21,7 +21,7 @@ export default defineConfig({
   adapter: vercel({
     imageService: true,
   }),
-  site: env().SITE_URL,
+  site: 'https://astronaut.github.io',
   markdown: {
     rehypePlugins: [rehypeSanitize(defaultSchema)],
   },
