@@ -21,7 +21,7 @@ export default defineConfig({
   adapter: vercel({
     imageService: true,
   }),
-  site: 'https://astronaut.github.io',
+  site: 'https://ikerrios.github.io',
   markdown: {
     rehypePlugins: [rehypeSanitize(defaultSchema)],
   },
